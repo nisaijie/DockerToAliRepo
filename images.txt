@@ -17,5 +17,6 @@
 #docker.n8n.io/n8nio/n8n:latest
 #bitpoke/mysql-operator:0.7.0-amd64
 #bitpoke/mysql-operator-orchestrator:0.7.0-amd64
-bitpoke/mysql-operator-sidecar-8.0:0.7.0
+#bitpoke/mysql-operator-sidecar-8.0:0.7.0
+rancher/local-path-provisioner:v0.0.24
 
